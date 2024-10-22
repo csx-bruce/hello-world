@@ -1,7 +1,7 @@
-# hello-world
+# hello-world - My First Public Repository  
 GitHub's get started  example to start your journey.
 
-About Me & GitHub
+## About Me & GitHub
 
 To start I'll write about myself in releationship to my using and learning GitHub.
 Started using GitHub while working on Proservia's first Service Now implementation.
